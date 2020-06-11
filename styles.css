@@ -1,0 +1,11 @@
+.canvas {
+    height: 600px;
+    width: 600px;
+    background-color: black;
+    float: left;
+}
+
+.attribute {
+    display: block;
+    margin-left: 30px;
+}
